@@ -1,4 +1,4 @@
 Contains<br/>
-Intellij mainly used key<br/>
+Intellij mainly short key<br/>
 Intellij eclipse customize key map<br/>
 Intellij theme
