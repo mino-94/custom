@@ -1,0 +1,28 @@
+Close window: Ctrl + W
+Compare other project(directory): (Project Click) Ctrl + D
+Delete line(at cursor): Ctrl + D
+Choose all: Ctrl + A
+Undo: Ctrl + Z
+Redo: Ctrl + Y
+Copy: Ctrl + C
+Cut: Ctrl + X
+Paste: Ctrl + V
+Copy: Ctrl + Ins
+Paste: Shift + Ins
+Search file: Shift + Shift
+Search all: Ctrl + H
+more big cursor: Ctrl + Ctrl + Up | Down
+Compare with Repository: (Project Click) Ctrl + Shift + S
+To cursor from front(line): Shift + Home
+To cursor from back(line): Shift + End
+To Cursor from from(document): Ctrl + Shift + Home
+To Cursor from back(document): Ctrl + Shift + End
+Open project setting: Ctrl + Alt + S
+Open IDEA setting: Ctrl + Alt + Shift + S
+Clear line set: Ctrl + Shift + F
+Auto clear unused things: Ctrl + Shift + O
+Auto import: Alt + Enter
+Search word: Ctrl + F
+Rename: Ctrl + Shift + R / F2
+Reopen Project: Ctrl + Ctrl
+Page scroll: Ctrl + Up | Down
