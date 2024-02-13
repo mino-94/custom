@@ -1,5 +1,11 @@
 Rainbow Brackets
+  1. Disable when > Do NOT rainbowify files with more than 1000 lines -> disabled
 Material Theme
+  1. Theme: Dracula (Meterial)
+  2. Editor > Color Scheme > Java > Comments > JavaDoc > Text > E0E85F
+  3. Editor > Color Scheme > Kotlin > Comments > KDoc > KDoc comment > E0E85F
+  4. Editor > Color Scheme > General > Editor > Tabs > Selected Tab > E0E85F
 CodeGlance Pro
-  1. d
-  2. d
+  1. Pixels Per Line: 4
+  2. Width: 180 Lock
+  3. Max lines count: 100,000
