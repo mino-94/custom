@@ -3,8 +3,9 @@ Rainbow Brackets
 Material Theme
   1. Theme: Dracula (Meterial)
   2. Editor > Color Scheme > Java > Comments > JavaDoc > Text > E0E85F
-  3. Editor > Color Scheme > Kotlin > Comments > KDoc > KDoc comment > E0E85F
-  4. Editor > Color Scheme > General > Editor > Tabs > Selected Tab > E0E85F
+  3. Editor > Color Scheme > Java > Comments > Block comment > E0E85F
+  4. Editor > Color Scheme > Kotlin > Comments > KDoc > KDoc comment > E0E85F
+  5. Editor > Color Scheme > General > Editor > Tabs > Selected Tab > E0E85F
 CodeGlance Pro
   1. Pixels Per Line: 4
   2. Width: 180 Lock
