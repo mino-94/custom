@@ -1,9 +1,9 @@
-Rainbow Brackets
-  1. Disable when > Do NOT rainbowify files with more than 1000 lines -> disabled
-Material Theme
+Default
   1. Theme: Dracula (Meterial)
   2. Editor > Color Scheme > Java > Comments > JavaDoc > Text > E0E85F
   3. Editor > Color Scheme > Java > Comments > Block comment > E0E85F
   4. Editor > Color Scheme > Kotlin > Comments > KDoc > KDoc comment > E0E85F
   5. Editor > Color Scheme > Kotlin > Comments > Block comment > E0E85F
   6. Editor > Color Scheme > General > Editor > Tabs > Selected Tab > E0E85F
+Rainbow Brackets
+  1. Disable when > Do NOT rainbowify files with more than 1000 lines -> disabled
