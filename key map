@@ -2,9 +2,8 @@ Main menu/Refactor/Rename: Alt + Shift + R, F2
 Main menu/Run/Debug: F11
 Main menu/Run/Stop: F12
 Main menu/Git/VCS Group/Git/Compare with Branch: Ctrl + Shift + S
-Main menu/Window/Editor Tabs/Close Tab: Ctrl + W
-Version Control Systems/Subversion/Compare with Branch: Ctrl + Shift + S
+Main menu/Window/Editor Tabs/Editor Close Actions/Close Tab: Ctrl + W
 Other/Incremental Search: Ctrl + F
 Main menu/Edit/Find/Replace: Ctrl + F
-Main menu/Code/Comment with Line Comment: Ctrl + Shift + C
-Main menu/Code/Optimize Imports: Ctrl + Shift + O
+Main menu/Code/Comment Actions/Comment with Line Comment: Ctrl + Shift + C
+Main menu/Code/Code Formatting Actions/Optimize Imports: Ctrl + Shift + O
