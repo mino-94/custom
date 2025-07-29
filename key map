@@ -1,7 +1,7 @@
 Main menu/Refactor/Rename: Alt + Shift + R, F2
 Main menu/Run/Debug: F11
 Main menu/Run/Stop: F12
-Main menu/VCS/Subversion/Compare with Branch: Ctrl + Shift + S
+Main menu/Git/VCS Group/Git/Compare with Branch: Ctrl + Shift + S
 Main menu/Window/Editor Tabs/Close Tab: Ctrl + W
 Version Control Systems/Subversion/Compare with Branch: Ctrl + Shift + S
 Other/Incremental Search: Ctrl + F
